@@ -207,11 +207,3 @@
    (ok true)
  )
 )
-
-
-;; Read-only functions
-
-
-;; Get user verification status
-(define-read-only (get-user-verification-status (user principal))
-)
